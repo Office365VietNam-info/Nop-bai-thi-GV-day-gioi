@@ -22,8 +22,16 @@ Mẫu tham khảo như hình dưới:
 ![alt text](https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/blob/main/Images/Teams.png?raw=true)
 
 c. Tạo trang Sharepoint site
+Tạo 1 trang SharePoint site để lưu thông tin đăng ký từ forms và lưu sản phẩn dự thi.
+Tạo SharePoint list: 
+- Nộp bài thi.
+- Giám khảo 1,2 và 3.
+Mẫu các cột thông tin cần thiết tại https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/tree/main/SharePoint
 
 d. Hoàn chỉnh giao diện trên teams
+Thêm các apps vào nhóm Teams đã tạo ở trên để quản lý.
+- Kênh **Nộp sản phẩm dự thi** thêm **Lists**(chứa thông tin SharePoint list **Nộp bài thi**) và **Document Library**(là thông tin Documents trong trang SharePoint đã tạo)
+- Các kênh cho **Giám khảo 1, 2 và 3** thêm **Lists**(chứa thông tin SharePoint list **Giám khảo 1, 2 và 3**) và **Document Library**(là thông tin Documents trong trang SharePoint đã tạo)
 
 e. Cập nhật các gói PowerAutomate
 - Cập nhật flow: Nộp sản phẩm
