@@ -25,7 +25,7 @@ Mẫu tham khảo như hình dưới:
 ![alt text](https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/blob/main/Images/Teams.png?raw=true)
 
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/J--UchXEFlk/maxresdefault.jpg)](https://youtu.be/J--UchXEFlk)
 
 c. Tạo trang Sharepoint site
 Tạo 1 trang SharePoint site để lưu thông tin đăng ký từ forms và lưu sản phẩn dự thi.
@@ -35,7 +35,7 @@ Tạo SharePoint list:
 Mẫu các cột thông tin cần thiết tại https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/tree/main/SharePoint
 
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/7jn4C8pqKmo/maxresdefault.jpg)](https://youtu.be/7jn4C8pqKmo)
 
 d. Hoàn chỉnh giao diện trên teams
 Thêm các apps vào nhóm Teams đã tạo ở trên để quản lý.
@@ -43,39 +43,39 @@ Thêm các apps vào nhóm Teams đã tạo ở trên để quản lý.
 - Các kênh cho **Giám khảo 1, 2 và 3** thêm **Lists**(chứa thông tin SharePoint list **Giám khảo 1, 2 và 3**) và **Document Library**(là thông tin Documents trong trang SharePoint đã tạo)
 
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/Y43JbfVH-Jg/maxresdefault.jpg)](https://youtu.be/Y43JbfVH-Jg)
 
 e. Cập nhật các gói PowerAutomate
 - Cập nhật flow: Nộp sản phẩm
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
 
 - Cập nhật flow: Sao chép tập tin
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/3Gkv-ysHoUI/maxresdefault.jpg)](https://youtu.be/3Gkv-ysHoUI)
 
 - Cập nhật flow: Phân công chấm thi
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
 
 - Tổng hợp thông tin chấm thi Giám khảo 1
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
 
 - Tổng hợp thông tin chấm thi Giám khảo 2
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
 
 - Tổng hợp thông tin chấm thi Giám khảo 3
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
 
 - Kiểm thử và chỉnh sửa
 Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
 
 - Phân quyền bổ sung
-Video hướng dẫn:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/IekGYklcO5k/maxresdefault.jpg)](https://youtu.be/IekGYklcO5k)
+
 
 Chúc các bạn thành công và có thể tùy chỉnh để có thể áp dụng cho nhiều mục đích khác trong tổ chức!
