@@ -6,6 +6,7 @@ Quy trình nhận và hỗ trợ chấm thi giáo viên dạy giỏi
 - Tài liệu: https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi
 
 # 2. Kiến trúc xử lý
+![alt text](https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/blob/main/Architecture/Architecture.png?raw=true)
 
 # 3. Các bước làm
 a. Tạo Forms
