@@ -9,9 +9,13 @@ Quy trình nhận và hỗ trợ chấm thi giáo viên dạy giỏi
 
 # 3. Các bước làm
 a. Tạo Forms
+
 b. Tạo nhóm trên Teams
+
 c. Tạo trang Sharepoint site
+
 d. Hoàn chỉnh giao diện trên teams
+
 e. Cập nhật các gói PowerAutomate
 - Cập nhật flow: Nộp sản phẩm
 - Cập nhật flow: Sao chép tập tin
