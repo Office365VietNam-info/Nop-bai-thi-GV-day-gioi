@@ -14,6 +14,12 @@ Tạo Forms để nhận kết quả dự thi, forms mẫu như hình bên dư�
 ![alt text](https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/blob/main/Images/Forms%20mau.png?raw=true)
 
 b. Tạo nhóm trên Teams
+Tạo 1 nhóm trên Teams có các kênh:
+- Thông báo(chế độ: standard): để gửi thông báo khi có sản phẩm dự thi được nộp.
+- Nộp sản phẩm dự thi(chế độ: private): để lưu thông tin dự thi và thư mục chứa sản phẩm dự thi.
+- Các kênh giành cho giám khảo 1,2 3(chế độ: private): để lưu thông tin dự thi và thư mục chứa sản phẩm dự thi cho từng giám khảo.
+Mẫu tham khảo như hình dưới:
+![alt text](https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/blob/main/Images/Teams.png?raw=true)
 
 c. Tạo trang Sharepoint site
 
