@@ -10,6 +10,7 @@ Quy trình nhận và hỗ trợ chấm thi giáo viên dạy giỏi
 
 # 3. Các bước làm
 a. Tạo Forms
+
 Tạo Forms để nhận kết quả dự thi, forms mẫu như hình bên dưới:
 ![alt text](https://github.com/Office365VietNam-info/Nop-bai-thi-GV-day-gioi/blob/main/Images/Forms%20mau.png?raw=true)
 
